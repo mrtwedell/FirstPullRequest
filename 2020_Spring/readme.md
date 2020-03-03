@@ -98,7 +98,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Tran, William
 
-- [ ] Twedell, M. Ryan
+- [X] Twedell, M. Ryan 
 
 - [ ] Walker, Michael
 
